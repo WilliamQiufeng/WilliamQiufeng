@@ -2,7 +2,7 @@
 
 I'm **WilliamQiufeng**, a high schooler interested in computer science generally.  
 I'm the creater of [caie-pseudocode](https://marketplace.visualstudio.com/items?itemName=WilliamQiufeng.caie-pseudocode&ssr=false#overview), a program that can run **pseudocode** files following **CAIE** standard directly on the computer, in addition to basic **syntax highlighting** and **warnings and hints** in VSCode.  
-I'm also working on an AI that can compete in [MadPodRacing](https://www.codingame.com/multiplayer/bot-programming/mad-pod-racing). It's presently not private, but eventually it will once it's ready.  
+I'm also working on an AI that can compete in [MadPodRacing](https://www.codingame.com/multiplayer/bot-programming/mad-pod-racing). It's presently not public, but eventually it will once it's ready.  
 I also developed a beatmap editor software for a rhythm game called [Siglota](https://www.bilibili.com/video/BV14M411t7st/?share_source=copy_web&vd_source=a886ddc0713514782507a346a7bad91d).
 
 ## How to reach me
