@@ -7,10 +7,10 @@ I'm also working on an AI that can compete in [MadPodRacing](https://www.codinga
 I also developed a beatmap editor software for a rhythm game called [Siglota](https://www.bilibili.com/video/BV14M411t7st/?share_source=copy_web&vd_source=a886ddc0713514782507a346a7bad91d).
 
 ## How to reach me
-You can reach to me through my [school email](mailto:wy924@ic.ac.uk), or my QQ account 2710923955.
+You can reach to me through my [school email](mailto:wy924@ic.ac.uk).
 
 ## CV
-My CV is [here](CV.docx)
+My CV is [here](CV.docx).
 
 <!--
 **QiuFeng54321/Qiufeng54321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
