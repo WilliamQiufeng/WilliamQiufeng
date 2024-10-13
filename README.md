@@ -9,6 +9,9 @@ I also developed a beatmap editor software for a rhythm game called [Siglota](ht
 ## How to reach me
 You can reach to me through my [school email](mailto:wy924@ic.ac.uk), or my QQ account 2710923955.
 
+## CV
+My CV is [here](CV.docx)
+
 <!--
 **QiuFeng54321/Qiufeng54321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
