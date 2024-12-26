@@ -10,7 +10,7 @@ I also developed a beatmap editor software for a rhythm game called [Siglota](ht
 You can reach to me through my [school email](mailto:wy924@ic.ac.uk).
 
 ## CV
-My CV is [here](CV.docx).
+My CV is [here](Yuheng%20Ye%20CV.pdf).
 
 <!--
 **QiuFeng54321/Qiufeng54321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
